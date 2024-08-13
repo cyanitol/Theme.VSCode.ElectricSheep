@@ -17,5 +17,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [v0.1.1] - 2024-08-12
 - Set default theme to Electric Sheep non-Neon flavor
 
-## [v0.1.2] - 2024-08-14
+## [v0.1.2] - 2024-08-13
 - Token color adjustments to increase contrast.
