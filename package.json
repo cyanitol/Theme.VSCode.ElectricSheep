@@ -1,0 +1,40 @@
+{
+  "name": "electric-sheep",
+  "displayName": "Electric Sheep Theme",
+  "description": "Electric Sheep Theme",
+  "publisher": "JMWeeks",
+  "version": "0.1.1",
+  "icon": "./icon.png",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Electric Sheep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ElectricSheep-color-theme.json"
+      },
+      {
+        "label": "Electric Sheep: Neon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ElectricSheepNeon-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "electric-sheep-default",
+        "label": "Electric Sheep Default Icons",
+        "path": "./icons.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyanitol/Theme.VSCode.ElectricSheep"
+  },
+  "homepage": "https://jmweeks.com/project/electric-sheep/"
+}
