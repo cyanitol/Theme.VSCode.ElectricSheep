@@ -3,7 +3,7 @@
   "displayName": "Electric Sheep Theme",
   "description": "Electric Sheep Theme",
   "publisher": "JMWeeks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "icon": "./icon.png",
   "engines": {
     "vscode": "^1.92.0"
